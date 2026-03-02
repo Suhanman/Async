@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real-Time Notifications</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sockjs-client/1.5.1/sockjs.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/stomp.js/2.3.3/stomp.min.js"></script>
+</head>
+<body>
+<h1>Notifications</h1>
+<div id="notifications"></div>
+
+<form id = "notificationForm">
+
+    <input type="tel" id = "notificationMessage" placeholder="입력하세요" required>
+    <button type="submit">전송</button>
+</form>
+
+<script>
+    // 1. 서버의 WebSocket 엔드포인트 연결 ('/ws'는 서버 설정에 맞춰야 함)
+    const socket = new SockJS('/ws');
+
+    // 2. SockJS 객체를 STOMP 클라이언트로 래핑
+    const stompClient = Stomp.over(socket);
+
+    // 3. 연결 시도
+    stompClient.connect({}, function (frame) {
+        console.log('Connected to WebSocket');
+
+        // 서버로부터 메시지 구독
+        // '/topic/notifications'는 서버에서 메시지를 발행하는 경로와 일치해야 합니다.
+        stompClient.subscribe('/topic/notifications', function (message) {
+            const notificationsDiv = document.getElementById('notifications');
+            const newNotification = document.createElement('div');
+
+            // 받은 메시지의 본문(body)을 화면에 추가
+            newNotification.textContent = message.body;
+            notificationsDiv.appendChild(newNotification);
+        });
+
+    const form = document.getElementById('notificationForm')
+    form.addEventListener('submit', function (event) {
+
+        event.preventDefault();
+        const messageInput = document.getElementById('notificationMessage');
+        const message = messageInput.value;
+        stompClient.send('/app/send', {} , JSON.stringify({message: message}));
+        messageInput.value = '';
+    })
+    });
+
+    // 서버로 전송도 가능 (필요 시 작성)
+</script>
+</body>
+</html>
