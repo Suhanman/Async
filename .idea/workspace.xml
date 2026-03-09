@@ -4,27 +4,80 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5b35d6e-d2e2-4faf-9e23-f18a44c18862" name="변경" comment="" />
+    <list default="true" id="f5b35d6e-d2e2-4faf-9e23-f18a44c18862" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/HelloMessageQueue.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step8/MessageConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step8/MessageProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step8/RabbitMQConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step8/StockEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step8/StockRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step8/TransactionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step7/OrderConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step7/OrderConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step7/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step7/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step7/OrderDeadLetterRetry.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step7/OrderDeadLetterRetry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step7/OrderProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step7/OrderProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step7/RabbitMQConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step7/RabbitMQConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step7/RetryConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step7/RetryConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/resources/application.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="HelloMessageQueue" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Suhanman"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Suhanman&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Suhanman/Async.git",
-    "accountId": "66d03485-4d37-4140-b518-6f023a4d5d22"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Suhanman/Async.git&quot;,
+    &quot;accountId&quot;: &quot;66d03485-4d37-4140-b518-6f023a4d5d22&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -39,18 +92,42 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.HelloMessageQueue 빌드.executor": "Run",
+    "Gradle.소스 다운로드.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.HelloMessageQueueApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/USER/Project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="HelloMessageQueueApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="HelloMessageQueue.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.hellomessagequeue.HelloMessageQueueApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -67,10 +144,15 @@
       <option name="presentableId" value="Default" />
       <updated>1772105293947</updated>
       <workItem from="1772554465795" duration="25000" />
+      <workItem from="1773049235041" duration="13155000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
