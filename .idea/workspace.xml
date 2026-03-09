@@ -5,28 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5b35d6e-d2e2-4faf-9e23-f18a44c18862" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/HelloMessageQueue.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step8/MessageConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step8/MessageProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step8/RabbitMQConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step8/StockEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step8/StockRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step8/TransactionController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step7/OrderConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step7/OrderConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step7/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step7/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step7/OrderDeadLetterRetry.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step7/OrderDeadLetterRetry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step7/OrderProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step7/OrderProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step7/RabbitMQConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step7/RabbitMQConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step7/RetryConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step7/RetryConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/resources/application.yaml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +124,7 @@
       <option name="presentableId" value="Default" />
       <updated>1772105293947</updated>
       <workItem from="1772554465795" duration="25000" />
-      <workItem from="1773049235041" duration="13155000" />
+      <workItem from="1773049235041" duration="13560000" />
     </task>
     <servers />
   </component>
