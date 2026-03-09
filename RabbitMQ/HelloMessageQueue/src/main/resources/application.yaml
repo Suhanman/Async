@@ -22,5 +22,6 @@ spring:
     password: guest
   application:
     name: HelloMessageQueue
+
   server:
     port:8080
