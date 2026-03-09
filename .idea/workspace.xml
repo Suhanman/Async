@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f5b35d6e-d2e2-4faf-9e23-f18a44c18862" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +85,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.HelloMessageQueueApplication.executor": "Run",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "main 병합 중",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/USER/Project",
     "node.js.detected.package.eslint": "true",
