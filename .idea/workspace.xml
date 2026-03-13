@@ -5,11 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5b35d6e-d2e2-4faf-9e23-f18a44c18862" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step0/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step2/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/resources/img/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/resources/img/img2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step3/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step5/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step8/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step9/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step9/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/resources/img/img3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/resources/img/img4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/resources/img/img5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/resources/img/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/resources/img/key.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/resources/img/key2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/resources/img/notif.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/resources/img/routing.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step2/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step2/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step7/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step7/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +102,7 @@
     "Spring Boot.HelloMessageQueueApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/USER/Project/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step2",
+    "last_opened_file_path": "C:/Users/USER/Project/RabbitMQ/HelloMessageQueue/src/main/java/com/example/hellomessagequeue/step5",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -103,6 +114,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Project\RabbitMQ\HelloMessageQueue\src\main\java\com\example\hellomessagequeue\step5" />
       <recent name="C:\Users\USER\Project\RabbitMQ\HelloMessageQueue\src\main\java\com\example\hellomessagequeue\step2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -142,7 +154,8 @@
       <workItem from="1772554465795" duration="25000" />
       <workItem from="1773049235041" duration="13560000" />
       <workItem from="1773156186753" duration="10220000" />
-      <workItem from="1773246017510" duration="3855000" />
+      <workItem from="1773246017510" duration="5333000" />
+      <workItem from="1773282327216" duration="21809000" />
     </task>
     <servers />
   </component>
